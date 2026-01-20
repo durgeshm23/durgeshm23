@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @its-me-duggu
+- 👋 Hi, I’m @durgeshm23
 - 👀 I’m interested in Web Development, Full-stack developer
 - 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on any Web development projects 
